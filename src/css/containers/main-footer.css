@@ -1,0 +1,16 @@
+.main-footer{
+    margin-top: var(--gap-smaller);
+    
+}
+.main-footer > .simple-paragraphy{
+    margin-left: var(--gap-medium);
+    margin-top: var(--gap-smaller);
+    font-size: 12px;
+    margin-bottom: var(--gap-small);
+}
+.main-footer > .vec-tor{
+    width: 90%;
+    margin-left: var(--gap-medium);
+    
+
+}

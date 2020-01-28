@@ -1,0 +1,10 @@
+.social-logo{   
+margin-left: var(--gap-medium);
+
+
+}
+.social-logo > img{
+    height: 15px;
+    width: 15px;
+    margin-bottom: 15px;
+}

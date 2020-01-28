@@ -1,0 +1,9 @@
+containers = estrutura dentro do layout q envolve components ou outros components tmb,mexe com tamanho,espaço do componente
+serve pra posicionar.
+Serve pra tamanho,espaçamento e posicionamento.
+settings = configurações globais. Ex: cores globais.
+elements = seletores
+components = coisas q são usadas em quase todo o site,ou melhor, algo reutilizavel. ,n mexe com tamanho e fontes.
+Evitar tamanho,espaçamento,posicionamento
+Ex: css de um botão de login,
+itens da nav e o logo.
