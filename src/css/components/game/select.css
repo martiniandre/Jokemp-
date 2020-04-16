@@ -1,0 +1,15 @@
+.select img{
+    width: 40px;
+    height: 30px;
+     
+}
+
+.move{
+    background-color: var(--color-second);
+    padding: 10px;
+    margin-left: var(--gap-smaller);
+    border-radius: 50%;
+}
+.move:hover{
+    transform: scale(1.2);
+}

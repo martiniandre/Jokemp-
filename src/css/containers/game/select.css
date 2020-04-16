@@ -1,0 +1,6 @@
+.select{
+    display: flex;
+    align-items: center;
+   margin-top: var(--gap-small);
+   margin-left: 100px;
+}

@@ -1,0 +1,10 @@
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:var(--gap-smaller) var(--gap-medium) 0;
+    
+}
+.main-header > .main-logo{
+        font-size: 22px;
+}

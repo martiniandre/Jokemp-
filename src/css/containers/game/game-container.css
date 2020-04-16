@@ -1,0 +1,4 @@
+.game-container{
+    margin: var(--gap-big) auto;
+    width: 1000px;
+}

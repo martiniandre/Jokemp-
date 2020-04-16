@@ -1,0 +1,9 @@
+.players{
+    font-size: 24px;
+    color: var(--color-base-light);
+    
+}
+.players h3{
+    margin-bottom: var(--gap-medium);
+    
+}
